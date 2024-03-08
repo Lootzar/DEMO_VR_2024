@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\VR_Prototype\\DEMO_VR_2024\\Intermediate\\Source\\DEMO_VR_2024.Build.cs",
+		"D:\\Unreal Projects\\VR_Prototype\\DEMO_VR_2024\\Intermediate\\Source\\DEMO_VR_2024.Target.cs",
+		"D:\\Unreal Projects\\VR_Prototype\\DEMO_VR_2024\\Intermediate\\Source\\DEMO_VR_2024Client.Target.cs",
+		"D:\\Unreal Projects\\VR_Prototype\\DEMO_VR_2024\\Intermediate\\Source\\DEMO_VR_2024Editor.Target.cs",
+		"D:\\Unreal Projects\\VR_Prototype\\DEMO_VR_2024\\Intermediate\\Source\\DEMO_VR_2024Server.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

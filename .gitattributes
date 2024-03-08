@@ -1,2 +1,15 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Binaries/Android/DEMO_VR_2024-arm64.apk filter=lfs diff=lfs merge=lfs -text
+ filter=lfs diff=lfs merge=lfs -text
+Binaries/Android/DEMO_VR_2024-arm64.so filter=lfs diff=lfs merge=lfs -text
+Binaries/Android/DEMO_VR_2024_Symbols_v1/DEMO_VR_2024arm64/libUnreal.so filter=lfs diff=lfs merge=lfs -text
+Intermediate/Android/arm64/gradle/app/build/intermediate/merg.../libUnreal.so filter=lfs diff=lfs merge=lfs -text
+Intermediate/Android/arm64/gradle/app/build/intermediates/merged_ini_libs/debug/out/arm64-v8a/libUnreal.so filter=lfs diff=lfs merge=lfs -text
+Intermediate/Android/arm64/gradle/app/build/intermediates/merged_native_libs/debug/out/lib/arm64-v8a/libUnreal.so filter=lfs diff=lfs merge=lfs -text
+Intermediate/Android/arm64/gradle/app/build/intermediates/stripped_native_libs/debug/out/lib/arm64-v8a/libUnreal.so filter=lfs diff=lfs merge=lfs -text
+ filter=lfs diff=lfs merge=lfs -text
+Intermediate/Android/arm64/gradle/app/build/outputs/apk/debug/app-debug.apk filter=lfs diff=lfs merge=lfs -text
+Intermediate/Android/arm64/gradle/app/src/main/jnilibs/arm64-v8a/libUnreal.so filter=lfs diff=lfs merge=lfs -text
+Intermediate/Android/arm64/jni/arm64-v8a/libUnreal.so filter=lfs diff=lfs merge=lfs -text
+Saved/StagedBuilds/Android_ASTC.obb filter=lfs diff=lfs merge=lfs -text
