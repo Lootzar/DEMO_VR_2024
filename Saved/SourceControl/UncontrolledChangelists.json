@@ -6,7 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Unreal Projects/VR_Prototype/DEMO_VR_2024/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/Unreal Projects/VR_Prototype/DEMO_VR_2024/Content/VRTemplate/Maps/VRTemplateMap.umap"
+				"D:/Unreal Projects/VR_Prototype/DEMO_VR_2024/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/EpicGames/UE_5.3/Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset",
+				"D:/EpicGames/UE_5.3/Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset",
+				"D:/EpicGames/UE_5.3/Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset",
+				"D:/EpicGames/UE_5.3/Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset",
+				"D:/EpicGames/UE_5.3/Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset",
+				"D:/EpicGames/UE_5.3/Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset"
 			]
 		}
 	]
